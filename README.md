@@ -1,3 +1,5 @@
+<img width="799" alt="изображение" src="https://user-images.githubusercontent.com/6794386/160911210-61e5c667-5bae-407e-b7dd-6af49692ff57.png">
+
 <img src=".github/Icon-1024.png" width="230" alt="App icon" align="left"/>
 
 <div>
